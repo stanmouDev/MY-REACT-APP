@@ -1,4 +1,5 @@
 # AI Audio Transcriber & Translator
+![App Screenshot](assets/Screenshot.png)
 
 Welcome to the **AI Audio Transcriber & Translator**!  
 This React application leverages the Gemini API to simulate audio transcription, translation, and text-to-speech (TTS) in a modern, user-friendly interface.
@@ -112,4 +113,3 @@ This project is licensed under the MIT License.
 
 ## ⭐️ Star this repo if you found it
 
-![App Screenshot](assets/screenshot.png)
